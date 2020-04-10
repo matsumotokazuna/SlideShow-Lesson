@@ -1,1 +1,2 @@
 # SlideShow-Lesson
+DMM WEBCAMPの学習コンテンツJavaScriptを学ぼうの「jQueryのプラグインを導入しよう」の研修課題です。
